@@ -20,9 +20,17 @@ bash epi2anat.sh "$scan"_task-rest_space-MNIPediatricAsym_cohort-5_res-2_boldref
 done
 ```
 
+Anat to template (shows T1w and then the MNI teplate:
+
+![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/sub-ACAP1011QC_anat2std_space.gif?raw=true)
+
 Segmentatioin:
 
 ![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/output_QC_segment_WM_CSF.gif?raw=true)
+
+Epi to anat:
+
+![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/sub-ACAP1031_QA_epi2anat.gif?raw=true)
 
 
 Brain extraction:
