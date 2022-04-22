@@ -19,3 +19,6 @@ bash epi2anat.sh "$scan"_task-rest_space-MNIPediatricAsym_cohort-5_res-2_boldref
 "$scan"
 done
 ```
+Brain extraction:
+
+![alt text][QC_brain_extraction.png]
