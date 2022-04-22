@@ -19,6 +19,12 @@ bash epi2anat.sh "$scan"_task-rest_space-MNIPediatricAsym_cohort-5_res-2_boldref
 "$scan"
 done
 ```
+
+Segmentatioin:
+
+![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/output_QC_segment_WM_CSF.gif?raw=true)
+
+
 Brain extraction:
 
 ![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/QC_brain_extraction.png?raw=true)
