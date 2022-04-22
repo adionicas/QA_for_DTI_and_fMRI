@@ -21,4 +21,4 @@ done
 ```
 Brain extraction:
 
-![alt text][QC_brain_extraction.png]
+![alt text][https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/QC_brain_extraction.png?raw=true]
