@@ -4,7 +4,7 @@ Functions for QA images depend on:
 
 Inputs need to be in the same space (either T1 space or template space).
 
-Check epi to anat registration and anat to templat registration:
+Check epi to anat registration and anat to template registration:
 
 ```bash
 for scan in $scans; do
@@ -20,11 +20,11 @@ bash epi2anat.sh "$scan"_task-rest_space-MNIPediatricAsym_cohort-5_res-2_boldref
 done
 ```
 
-Anat to template (shows T1w and then the MNI teplate:
+Anat to template (shows T1w and then the MNI template:
 
 ![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/sub-ACAP1011QC_anat2std_space.gif?raw=true)
 
-Segmentatioin:
+Segmentation:
 
 ![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/output_QC_segment_WM_CSF.gif?raw=true)
 
@@ -36,3 +36,4 @@ Epi to anat:
 Brain extraction:
 
 ![](https://github.com/adionicas/QA_for_DTI_and_fMRI/blob/main/QC_brain_extraction.png?raw=true)
+
